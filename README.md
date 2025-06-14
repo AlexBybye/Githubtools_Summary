@@ -1,7 +1,7 @@
 # Repository Planning & Open Source Collaboration
 ## 仓库规划与开源协作
 
-I have given this repository a great deal of worry, as converting it into a full - stack project later on would involve the matter of varieties of project certifications, some of which can explode huge copyright issues. Out of respect for all the respectable GitHub open - source developers, the full - stack project will not be released as public repository without prior coordination.
+I have given this repository a great deal of thought, as converting it into a full - stack project later on would involve the matter of varieties of project certifications, some of which can explode huge copyright issues. Out of respect for all the respectable GitHub open - source developers, the full - stack project will not be released as public repository without prior coordination.
 
 Given the scale of the GitHub platform, this repo I think would be a massive undertaking. Therefore, I, AlexBybye, **welcome all like - minded individuals** to participate in the sharing and compilation of resource code and information.
 
